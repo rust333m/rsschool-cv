@@ -15,3 +15,29 @@
  
  
 ----
+### Skills
+* HTML
+* CSS
+* JS
+* Python
+* Git
+* VS Code
+* Adobe Illustrator
+* Adobe Photoshop
+* Figma
+
+----
+### Code example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
+----
+### Projects
+Diploma project in university, in which I was as Front-end dev. in my team.
+
+Project: [Family help](https://github.com/SuleymanDemirelKazakhstan/diploma-project-eventum_one)
+
+----
